@@ -10,4 +10,5 @@ AzureCloud.ukwest: 51.142.128.0/18
 
 ## Requirements
 
-`az` cli tool installed and logged in
+- python3.3+
+- `az` cli tool installed and logged in
